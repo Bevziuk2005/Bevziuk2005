@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita Bevziuk</h1>
 
-<p align="center">
+<p align="left">
   📫 How to reach me: <strong>nikitabevzuk124@gmail.com</strong>
 </p>
 
@@ -21,8 +21,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
-<p align="center">
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005"/>
 </p>
 
