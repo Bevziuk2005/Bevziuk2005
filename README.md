@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikita Bevziuk</h1>
 <h3 align="center">Success is the sum of small efforts, repeated day in and day out.</h3>
 
-- 🌱 I’m currently learning **Python Development at Beetroot Academy**
-
+- 🎓 I’m currently learning  **Computer Science at university**
+- 🌱 I have already completed Python Development at Beetroot Academy
 - 👨‍💻 All of my projects are available at [https://bevziuk2005.github.io/](https://bevziuk2005.github.io/)
-
 - 📫 How to reach me **nikitabevzuk124@gmail.com**
-
 - ⚡ Fun fact **I like everything about Internet Technology**
 
 
@@ -15,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikita-bevziuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-bevziuk" height="30" width="40" /></a>
 <a href="https://instagram.com/bevziuk_0147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bevziuk_0147" height="30" width="40" /></a>
-<a href="https://discord.gg/nikar1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nikar1409" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikita-bevziuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-bevziuk" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" /></p>
