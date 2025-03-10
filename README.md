@@ -73,6 +73,6 @@ INFORMATION
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" /></p>
 
-<p><img align="right" src=" http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bevziuk2005&theme=nord_bright"></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en" alt="bevziuk2005" /></p>
 
 
