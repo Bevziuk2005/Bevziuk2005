@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikita Bevziuk</h1>
 <h3 align="center">Success is the sum of small efforts, repeated day in and day out.</h3>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"></div>
+INFORMATION
 
 - 🎓 I’m currently learning  **Computer Science at university**
 - 🌱 I have already completed **Python Development at Beetroot Academy**
 - 👨‍💻 All of my projects are available at [https://bevziuk2005.github.io/](https://bevziuk2005.github.io/)
 - 📫 How to reach me **nikitabevzuk124@gmail.com**
 - ⚡ Fun fact **I like everything about Internet Technology**
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -62,13 +63,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/bevziuk_0147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bevziuk_0147" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikita-bevziuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-bevziuk" height="30" width="40" /></a>
+<a href="https://instagram.com/bevziuk_0147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bevziuk_0147" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">My statistics:</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bevziuk2005" alt="bevziuk2005" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en" alt="bevziuk2005" /></p>
+<p><img align="right" src=" http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bevziuk2005&theme=nord_bright"></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bevziuk2005" alt="bevziuk2005" /></a> </p>
