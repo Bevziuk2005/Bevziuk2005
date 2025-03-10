@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Bevziuk</h1>
 <h3 align="center">Success is the sum of small efforts, repeated day in and day out.</h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"></div>
-INFORMATION
+INFORMATION for me
 
 - 🎓 I’m currently learning  **Computer Science at university**
 - 🌱 I have already completed **Python Development at Beetroot Academy**
@@ -74,5 +74,8 @@ INFORMATION
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en" alt="bevziuk2005" /></p>
+
+
+
 
 
