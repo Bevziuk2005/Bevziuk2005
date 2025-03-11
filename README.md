@@ -69,7 +69,12 @@ INFORMATION for me
 
 <h3 align="left">My statistics:</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=bevziuk2005](https://github-profile-trophy.vercel.app/?username=bevziuk2005)" alt="bevziuk2005" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bevziuk2005" alt="GitHub Trophies"/>
+  </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" /></p>
 
