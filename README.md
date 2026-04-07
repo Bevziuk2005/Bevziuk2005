@@ -5,7 +5,6 @@ INFORMATION for me
 
 - 🎓 I’m currently learning  **Computer Science at university**
 - 🌱 I have already completed **Python Development at Beetroot Academy**
-- 👨‍💻 All of my projects are available at [https://bevziuk2005.github.io/](https://bevziuk2005.github.io/)
 - 📫 How to reach me **nikitabevzuk124@gmail.com**
 - ⚡ Fun fact **I like everything about Internet Technology**
 
