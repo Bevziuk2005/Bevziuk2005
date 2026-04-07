@@ -63,7 +63,6 @@ INFORMATION for me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikita-bevziuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-bevziuk" height="30" width="40" /></a>
-<a href="https://instagram.com/bevziuk_0147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bevziuk_0147" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My statistics:</h3>
@@ -78,6 +77,9 @@ INFORMATION for me
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en" alt="bevziuk2005" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en&cache_seconds=1800" alt="bevziuk2005" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="bevziuk2005" /></p>
 
 
 
