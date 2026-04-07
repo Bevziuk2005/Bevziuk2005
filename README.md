@@ -72,16 +72,10 @@ INFORMATION for me
 </p>
 
 <h3 align="left">My statistics:</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bevziuk2005" alt="bevziuk2005 Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" />
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bevziuk2005&show_icons=true&locale=en&layout=compact" alt="bevziuk2005" />
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en" alt="bevziuk2005" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bevziuk2005&show_icons=true&locale=en" alt="bevziuk2005" />
 </p>
 
